@@ -13,7 +13,7 @@ This is a Script for bypassing **Roblox's chat filter**! Make sure to use our lo
 > Get a **Roblox executor**. Paid or free, doesn't matter. <br />
 > https://wearedevs.net/exploits | https://roxploits.com
 
-- Run the code `loadstring(game:HttpGet(''))()`
+- Run the code `loadstring(game:HttpGet('https://raw.githubusercontent.com/uhAlexz/Bypasssed-Roblox-MSGs/main/main.lua'))()`
 - Make sure everything is working.
 - Have fun!
 
